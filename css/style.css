@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+}
+
+.red{
+    color: red;
+}
+ .verif{
+    margin-top: -161px;
+    margin-left: 300px;
+    width: 50%;
+}
